@@ -2,6 +2,7 @@
   "name": "vue-version",
   "version": "1.0.1",
   "description": "",
+  "main": "dist/vue-version.min.js",
   "files": [
     "dist",
     "src"
